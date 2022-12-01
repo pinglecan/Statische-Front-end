@@ -1,0 +1,41 @@
+body{
+    background-color:royalblue;
+}
+h1{
+    color:peachpuff;
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+h2{
+    color: peachpuff;
+    text-align: center;
+
+}
+
+p{
+    text-align: center;
+    color:peachpuff
+}
+ul{
+    text-align: center;
+    color: peachpuff;
+}
+li{
+    text-align: center;
+    color: peachpuff;
+}
+h3{
+    text-align: center;
+    color: peachpuff    ;
+}
+
+a{
+    color: peachpuff;
+}
+    

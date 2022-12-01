@@ -1,0 +1,19 @@
+body{background-color: darkmagenta;}
+
+H1{color:aqua;
+
+text-align: center;}
+
+p{font-family: Verdana;
+font-size: 20px;
+text-align: center;
+color: darkblue;}
+
+div {
+    background-color: cornsilk;
+    width: 500px;
+    border: 20px solid crimson;
+    padding: 40px;
+    margin: 40px auto;
+    border-style: dashed
+  };
