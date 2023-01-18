@@ -1,0 +1,36 @@
+body{
+    border: 5px gray;
+}
+
+
+.first{
+    background-color: aquamarine;
+    font-weight: bold;
+    
+}
+
+.first h2{
+    color: red;
+}
+.first p{
+    font-size: large;
+    color: black;
+}
+
+h1{
+    color: blue;
+
+}
+
+.second{
+    background-color:burlywood
+}
+
+.second h2{
+    color: green;
+}
+
+.second p{
+    color: black;
+    font-weight: bold;
+}
