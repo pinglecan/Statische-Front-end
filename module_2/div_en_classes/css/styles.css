@@ -34,3 +34,11 @@ h1{
     color: black;
     font-weight: bold;
 }
+
+p.paragraaf1{
+    color:aqua;
+}
+
+.paragraaf2{
+    color: violet;
+}
